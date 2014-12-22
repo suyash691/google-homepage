@@ -1,4 +1,5 @@
-a{
+a
+{
     text-decoration:none;
 }
 a:link
@@ -15,58 +16,87 @@ a:hover
 }
 #gplu
 {
-    margin-top:0.3em;
+    margin-top:0.3%;
     text-decoration:none;
     position:absolute;
-    margin-left:74em;
+    margin-left:85%;
 }
 #gmail
 {
-    margin-top:0.3em;
+    margin-top:0.3%;
     text-decoration:none;
     position:absolute;
-    margin-left:77em;
+    margin-left:88%;
 }
 #imag
 {
-    margin-top:0.3em;
+    margin-top:0.3%;
     text-decoration:none;
     position:absolute;
-    margin-left:80em;
+    margin-left:91%;
 }
 #img
 {
     position:absolute;
-    margin-left:35.5em;
-    margin-top:8em;
+    margin-left:35.5%;
+    margin-top:8%;
 }
 #search
 {
     position:absolute;
-    margin-left:30em;
-    margin-top:25em;
+    margin-left:26%;
+    margin-top:25%;
 }
 #sear
 {
+    border:1px solid #DCDCDC;
+    padding:1.2%;
+    background-color:#F6F6F6;
+    font-family:Tahoma;
+    font-weight:bold;
+    font-size:70%;
+    line-height:80%;
     position:absolute;
-    margin-left:8em;
-    margin-top:1em;
+    margin-left:30%;
+    margin-top:2%;
+}
+#fefe
+{
+    position:absolute;
+    margin-left:50%;
+    margin-top:2%;
+    border:1px solid #DCDCDC;
+    padding:1.2%;
+    background-color:#F6F6F6;
+    font-family:Tahoma;
+    font-weight:bold;
+    font-size:70%;
+    line-height:80%;
+    position:absolute;
 }
 #feel
 {
      position:absolute;
-    margin-left:46em;
-    margin-top:27.21em;
+    margin-left:50%;
+    margin-top:27.535%;
 }
 #sign
-{vertical-align: middle;
+{
+    position:absolute;
     text-align:center;
-background-color:#4487FA;
-height:2em;
-width:4em;
-    line-height:2em;
-    border-radius:0.2em;
-    margin-left:84em;
+    background-color:#4487FA;
+    height:3%;
+    width:4%;
+    border-radius:0.2%;
+    margin-left:95%;
+    margin-top:0.2%;
 }
 #sn
-{    color:White;
+{
+    color:white;
+}
+#searc
+{     size:100%;
+       height:20%;
+    font-size:110%;
+}
