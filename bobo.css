@@ -1,0 +1,67 @@
+a{
+    text-decoration:none;
+}
+a:link
+{
+    color:black;
+}
+a:visited
+{
+    color:black;
+}
+a:hover
+{
+    text-decoration:underline;
+}
+#gplu
+{
+    text-decoration:none;
+    position:absolute;
+    margin-left:75em;
+}
+#gmail
+{text-decoration:none;
+    position:absolute;
+    margin-left:78em;
+}
+#imag
+{text-decoration:none;
+    position:absolute;
+    margin-left:81em;
+}
+#img
+{
+    position:absolute;
+    margin-left:35.5em;
+    margin-top:8em;
+}
+#search
+{
+    position:absolute;
+    margin-left:30em;
+    margin-top:25em;
+}
+#sear
+{
+    position:absolute;
+    margin-left:8em;
+    margin-top:1em;
+}
+#feel
+{
+     position:absolute;
+    margin-left:46em;
+    margin-top:27.21em;
+}
+#sign
+{vertical-align: middle;
+    text-align:center;
+background-color:#0266C8;
+height:1.5em;
+width:4em;
+    line-height:1.5em;
+    border-radius:0.2em;
+    margin-left:84em;
+}
+#sn
+{    color:White;
